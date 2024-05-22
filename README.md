@@ -1,4 +1,4 @@
-# Perceptron
+# Perceptrón
 
 ### Proyecto de Perceptrón - Ingeniería del conocimiento
 
